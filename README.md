@@ -7,3 +7,5 @@ Implementação completa de Light & Dark Mode em um aplicativo Delphi FireMonkey
 Interface visual moderna e elegante com transições suaves entre os modos.
 Exemplo de uso de estilos e componentes para personalizar a aparência em cada modo.
 Orientações sobre melhores práticas e padrões de design para interfaces Light & Dark Mode.
+
+https://youtu.be/a5nmMyhnJCg
